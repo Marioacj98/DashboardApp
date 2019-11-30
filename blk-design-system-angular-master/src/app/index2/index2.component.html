@@ -1,0 +1,1 @@
+<p>index2 works!</p>
